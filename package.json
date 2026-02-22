@@ -1,0 +1,15 @@
+{
+  "name": "hyper-mesh-processor-secure-qhl",
+  "version": "1.0.0",
+  "description": "GraphQL API gateway service",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test"
+  },
+  "keywords": ["ai", "infrastructure"],
+  "author": "Yoshi Kondo",
+  "license": "MIT"
+}
